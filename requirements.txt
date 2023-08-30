@@ -1,0 +1,5 @@
+Pillow==10.0.0
+Pillow==10.0.0
+py_avataaars==1.1.2
+streamlit==1.26.0
+streamlit_option_menu==0.3.6
