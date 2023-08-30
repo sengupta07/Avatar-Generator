@@ -13,7 +13,7 @@ st.set_page_config(
 with open('style.css') as f:
     st.markdown(f'<style>{f.read()}</style>', unsafe_allow_html=True)
 
-st.header('Avatar Generator', divider='orange')
+st.header('Avatar Generator')
 
 col1, col2 = st.columns(2)
 
