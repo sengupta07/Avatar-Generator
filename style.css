@@ -1,0 +1,117 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&family=Poppins:wght@100;200;300;400;500;600;700&display=swap');
+
+:root{
+    /* Primary */
+    --primary-one: hsl(12, 88%, 59%);
+    --primary-two: hsl(228, 39%, 23%);
+
+    /* Neutral */
+    --neutral-g-blue: hsl(227, 12%, 61%);
+    --neutral-d-blue: hsl(233, 12%, 13%);
+    --neutral-red: hsl(13, 100%, 96%);
+    --neutral-grey: hsl(0, 0%, 98%);
+}
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+        background-image:url('https://i.imgur.com/o85VaSu.jpg')!important;
+        background-size:cover;
+    
+}
+
+/* main{
+    padding: 100px 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+} */
+
+header{
+    position: relative;
+    overflow-x: hidden;
+}
+
+div.stApp.stAppEmbeddingId-s073l9g8uhdj.css-ffhzg2.erw9t6i1 {
+    background-color: black;
+}
+
+div.css-nahz7x.e1nzilvr5 {
+    /* box-shadow: 0 8px 28px 0 rgba(0, 0, 0, 0.5)!important; */
+  backdrop-filter: blur(14px);
+  -webkit-backdrop-filter: blur(14px);
+  background-color:rgba(255, 255, 255, 0.096);
+    /* padding: 10px; */
+    border-radius: 10px;
+    text-align: center;
+}
+
+.css-ffhzg2{
+    /* background-color: #0d3b66; */
+    background-image:url('https://images.unsplash.com/photo-1508197149814-0cc02e8b7f74?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1995&q=80')!important;
+        background-size:cover;
+    
+    
+}
+
+.css-1y4p8pa {
+    backdrop-filter: blur(14px);
+  -webkit-backdrop-filter: blur(14px);
+  background-color:rgba(255, 255, 255, 0.103);
+    box-shadow: 0 8px 28px 0 black;
+    border-radius: 16px;
+    padding: 40px;
+    border: 0px solid;
+    margin-top: 75px;
+}
+
+div.css-k7vsyb .e1nzilvr2 {
+    font-size: 90px;
+}
+
+ul {
+    text-align: center;
+}
+
+a.css-15zrgzn.e1nzilvr3 {
+    font-size: smaller;
+}
+
+
+hr{
+    opacity: 0;
+}
+span.css-10trblm.e1nzilvr1 {
+    justify-content: center;
+}
+
+div.st-d3 {
+    cursor: pointer;
+}
+
+.css-1wncz92 p, .css-1wncz92 ol, .css-1wncz92 ul, .css-1wncz92 dl, .css-1wncz92 li {
+    text-align: center;
+}
+
+.css-ocqkz7 {
+    align-items: flex-end;
+}
+
+.css-1v0mbdj .e115fcil1 {
+    align-items: center;
+
+}
+div.row-widget {
+    float: right;
+}
+
+.css-nahz7x a {
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+}
