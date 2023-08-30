@@ -3,3 +3,4 @@ Pillow
 py_avataaars==1.1.2
 streamlit
 streamlit_option_menu==0.3.6
+base58
