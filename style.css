@@ -41,6 +41,7 @@ div.stApp.stAppEmbeddingId-s073l9g8uhdj.css-ffhzg2.erw9t6i1 {
     background-color: black;
 }
 
+/* darkmode */
 div.css-nahz7x.e1nzilvr5 {
     /* box-shadow: 0 8px 28px 0 rgba(0, 0, 0, 0.5)!important; */
   backdrop-filter: blur(14px);
@@ -51,19 +52,35 @@ div.css-nahz7x.e1nzilvr5 {
     text-align: center;
 }
 
+/* lightmode */
+div.css-5rimss.e1nzilvr5 {
+       /* box-shadow: 0 8px 28px 0 rgba(0, 0, 0, 0.5)!important; */
+  backdrop-filter: blur(14px);
+  -webkit-backdrop-filter: blur(14px);
+  background-color:rgba(255, 255, 255, 0.479);
+    /* padding: 10px; */
+    border-radius: 10px;
+    text-align: center;
+}
+
+/* darkmode */
 .css-ffhzg2{
     /* background-color: #0d3b66; */
     background-image:url('https://images.unsplash.com/photo-1508197149814-0cc02e8b7f74?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1995&q=80')!important;
+        background-size:cover;    
+}
+
+/* lightmode */
+.css-fg4pbf {
+    background-image:url('https://products.ls.graphics/mesh-gradients/images/08.-Violet-Blue.jpg')!important;
         background-size:cover;
-    
-    
 }
 
 .css-1y4p8pa {
     backdrop-filter: blur(14px);
   -webkit-backdrop-filter: blur(14px);
-  background-color:rgba(255, 255, 255, 0.103);
-    box-shadow: 0 8px 28px 0 black;
+  background-color:rgba(255, 255, 255, 0.096);
+  box-shadow: 0 5px 15px rgba(0,0,0,0.08);
     border-radius: 16px;
     padding: 40px;
     border: 0px solid;
@@ -114,4 +131,15 @@ div.row-widget {
     color: white;
     text-decoration: none;
     padding: 10px;
+}
+
+.css-5rimss a {
+    color:black;
+    text-decoration: none;
+}
+
+/* bottom credits dark mode */
+.css-1q7spjk {
+    color: black;
+    text-align: center;
 }
